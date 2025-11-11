@@ -39,7 +39,8 @@ _(Check out more in my repositories!)_
 ## GitHub Stats
 
 ![SnowDev9099’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowDev9099&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowDev9099&layout=compact&theme=radical)
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=SnowDev9099&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowDev9099&layout=compact&theme=radical&hide=JavaScript,private
+))
 
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
