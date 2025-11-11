@@ -39,7 +39,7 @@ _(Check out more in my repositories!)_
 ## GitHub Stats
 
 ![SnowDev9099’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowDev9099&show_icons=true&theme=radical)  
-![Top Languages]([![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowDev9099&layout=compact&theme=radical&hide=JavaScript,private)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowDev9099&layout=compact&theme=radical&hide=JavaScript,private)
 
 ))
 
