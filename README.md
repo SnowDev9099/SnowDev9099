@@ -1,6 +1,6 @@
 # Hello there!
 
-I’m **SnowDev9099 (KiwiOnGit)** — a passionate developer working with **Python · Rust · C#**  
+I’m **SnowDev9099 (KiwiOnGit)** — a passionate developer working with **Python · C · C#**  
 I build full-stack solutions, game projects, tools and libraries.
 
 ---
@@ -25,7 +25,7 @@ _(Check out more in my repositories!)_
 |----------------|------------------|
 | C#             | Unity game dev, mod tools |
 | Python         | Back-end scripting, APIs, Micro Controllers |
-| Rust           | Game engine tooling & systems |
+| C              | systems and apps |
 | Unity / Netcode | VR game development & multiplayer |
 | Git · GitHub   | Version control & open source |
 
